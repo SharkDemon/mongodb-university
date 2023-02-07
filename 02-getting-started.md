@@ -31,7 +31,7 @@ What is the default name assigned to your first Project in your Atlas account? (
 
 What is the Data Size of your new Atlas cluster, Cluster0? (Select one.)
 
-* 0.0
+* 0.0 (*)
 * I don't see Cluster0 in my dashboard.
 
 ***
